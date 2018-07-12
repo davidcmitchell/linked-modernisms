@@ -1,0 +1,2 @@
+# linked-modernisms
+graphical encyclopedia
